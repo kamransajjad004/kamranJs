@@ -30,3 +30,6 @@ for (let i = 3; i <=5; i++){
     console.log("hello cfi");
 }
 
+for (let f = 2; f <=3; f++){
+    console.log(4);
+}

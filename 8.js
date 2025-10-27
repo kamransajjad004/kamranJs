@@ -6,6 +6,6 @@ const c = 30
 console.log(b);
 console.log(c);}
 
-function hi() {console.log(a, b, c);}
+function w() {console.log(a, b, c);}
 
-hi()
+w()

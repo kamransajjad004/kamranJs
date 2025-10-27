@@ -81,19 +81,36 @@ else {
  //if temp is greater than 25 ==> its nice and normal
  // or else it cold
 
- let temp = 40
+ //let temp = 40
 
- if (temp >= 35){
-    console.log("its hot");
- }
- else if (temp >= 25){
+ //if (temp >= 35){
+ //   console.log("its hot");
+ //}
+ //else if (temp >= 25){
+   // console.log("its nice and normal");
+ //}
+ //else {"its cold"}
+
+temp = 18
+
+if (temp >=25){
     console.log("its nice and normal");
- }
- else {"its cold"}
+}
+else if (temp >= 19){
+    console.log("cold");
+}
+else console.log("very cold");
 
 
+let a = 2
 
-
+if (a >=3){
+    console.log("ok");
+}
+else if (a >=2){
+    console.log("not ok");
+}
+else console.log("okok");
 
 
 

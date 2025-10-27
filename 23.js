@@ -17,3 +17,15 @@ do {
     console.log(i);
     i++
 }while (i <= 5);
+
+let f = 1
+while (f <=10 ){
+    console.log("x"); f++
+}
+
+
+
+
+
+
+

@@ -39,11 +39,11 @@ console.log(e,f,g,h)
 let a1 = "2" + true
 let a2 = 2 + true
 let a3 = 0 - false
-console.log(a1)
+console.log(a3)
 
 //Null to Number 
 
-let c1 = 4 = null
+let c1 = 4 + null
 console.log(c1)
 
 //undefined to null
