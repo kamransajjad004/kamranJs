@@ -40,7 +40,7 @@ let nums2 = [2 ,4 ,6 ,8]
 let check5 = nums.findIndex((x) => x > 3 )
 console.log(check5);
 
-// forEach() Method
+//20 forEach() Method
 
 // Purpose : Executes a function for each element
 // Return value : undefined
@@ -50,6 +50,7 @@ console.log(check5);
 
 // ex : forEach just : Just loops - Doesnt return anything.
 
+//21 map
 let numbers = [1, 2, 3, 4, 5]
 
 console.log(numbers);
