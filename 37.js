@@ -29,8 +29,7 @@ console.log(c.indexOf("e"));
 let d = "Hello I am CFI Students"
 console.log(d.lastIndexOf("S"));
 
-//7. repeat() Method
-
+//7. repeat() Method 
 let e1 = "Test CFI \n"
 console.log(e1.repeat(10));
 

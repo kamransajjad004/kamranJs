@@ -15,6 +15,9 @@ let a = {
 }
 
 console.log(Object.freeze(a));
+a.name = "kam"
+delete a.city
+console.log(a);
 
 // 5. isFrozen
 
