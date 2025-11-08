@@ -92,4 +92,6 @@ async function finalRunner() {
         console.log(error);
     }
 }
-finalRunner()
+finalRunner() 
+
+// >
