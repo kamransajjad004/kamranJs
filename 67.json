@@ -1,0 +1,22 @@
+ [
+    {
+        "fullName": "Kamran",
+        "age": 21,
+        "college": "MJ"
+    },
+    {
+        "fullName": "Ibrahim ",
+        "age": 81,
+        "college": "MJ"
+    },
+    {
+        "fullName": "Kaif",
+        "age": 21,
+        "college": "lords"
+    },
+    {
+        "fullName": "Malik",
+        "age": 40,
+        "college": "Drop"
+    }
+]
